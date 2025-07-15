@@ -7,7 +7,7 @@ With a background in **Education** and **Arts**, and **Bilingual Teaching (Engli
 I’m currently learning:
 - Python, Artificial Intelligence and Git/GitHub
 
-💡 I enjoy working on meaningful projects, solving real problems, and collaborating in dynamic environments.
+I enjoy working on meaningful projects, solving real problems, and collaborating in dynamic environments.
 
 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/estela-pasquarelli-30270a19b).
