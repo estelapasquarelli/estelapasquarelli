@@ -24,7 +24,7 @@ Ferramentas e Tecnologias:
 
 ### Certificações
 
-- **CS50’s Introduction to Programming with Python** – *Harvard University / edX* – *in progress*  
+- **CS50’s Introduction to Programming with Python** – *Harvard University / edX* – *em andamento*  
 - **[Foundations of Artificial Intelligence](https://www.credly.com/badges/15bf02f9-c359-4c4e-9e42-d869eb682ee7/linked_in?t=sxntc7)** – *IBM SkillsBuild* – *2025*
 - **Introduction to Data Science** – *IE University* – *2025* 
   
